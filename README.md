@@ -21,7 +21,7 @@ This script is inspired by the research conducted by Truffle Security, which rev
 ## Installation and Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/git_config_enum.git
+git clone https://github.com/scrubbedha/git_config_enum.git
 ```
 2. Install the required dependencies:
 ```bash
