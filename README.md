@@ -31,7 +31,6 @@ pip install -r requirements.txt
 ```bash
 python3 git_config_enum.py [-f --file] top-1m.csv [-x --proxy] <proxy> socks5://user:pass@hostname:port
 ```
-
 4. The script will scan the provided domains and print the ones that have a valid `.git/config` file.
 
 ## Domain Lists
