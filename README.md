@@ -6,7 +6,7 @@ This script allows you to enumerate open git repositories to identify potential 
 This script is inspired by the research conducted by Truffle Security, which revealed that approximately 4,500 out of the top 1 million websites had leaked source code and secrets from their publicly accessible `.git` repositories. The following resources were also used as references related to reconstructing git repos during the development of this tool:
 
 - [Truffle Security Blog: 4500 of the Top 1 Million Websites Leaked Source Code Secrets](https://trufflesecurity.com/blog/4500-of-the-top-1-million-websites-leaked-source-code-secrets/)
-[In a Git Repository: Where do your files live?](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/)
+- [In a Git Repository: Where do your files live?](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/)
 - [goop by nyancrimew](https://github.com/nyancrimew/goop)
 - [trufflehog by Truffle Security](https://github.com/trufflesecurity/trufflehog/)
 - [shhgit by eth0izzle](https://github.com/eth0izzle/shhgit)
