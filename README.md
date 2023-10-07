@@ -7,6 +7,7 @@ This script is inspired by the research conducted by Truffle Security, which rev
 
 - [Truffle Security Blog: 4500 of the Top 1 Million Websites Leaked Source Code Secrets](https://trufflesecurity.com/blog/4500-of-the-top-1-million-websites-leaked-source-code-secrets/)
 - [In a Git Repository: Where do your files live?](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/)
+- [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
 - [goop by nyancrimew](https://github.com/nyancrimew/goop)
 - [trufflehog by Truffle Security](https://github.com/trufflesecurity/trufflehog/)
 - [shhgit by eth0izzle](https://github.com/eth0izzle/shhgit)
