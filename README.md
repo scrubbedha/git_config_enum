@@ -39,7 +39,7 @@ python3 git_config_enum.py [-f --file] top-1m.csv [-x --proxy] <proxy> socks5://
 - [Daily 100k Baby Domains/NRDs](https://www.whoisds.com/newly-registered-domains)
 ```bash
 for i in {1..10}; do DATE=$(date -d "$i days ago" '+%Y-%m-%d.zip'); ENCODED=$(echo -n $DATE | base64); curl -s https://www.whoisds.com/whois-database/newly-registered-domains/$ENCODED/nrd -o $DATE; done
-for file in newly-*.zip; do unzip -p "$file" domain-names.txt >> all-10d-nrd.csv; done
+for file in 2023-*.zip; do unzip -p "$file" domain-names.txt >> all-10d-nrd.csv; done
 ```
 - [Sectigo/crt.sh CT Logs](https://crt.sh/)
 ```bash
